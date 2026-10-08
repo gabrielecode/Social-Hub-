@@ -1,0 +1,6 @@
+{
+  "name": "Social Viral Creator",
+  "description": "An AI-powered tool that analyzes web pages and generates high-performance social media posts for Facebook and Google My Business (GMB), complete with image prompts, using real-time web research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
